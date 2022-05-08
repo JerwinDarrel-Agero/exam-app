@@ -1,0 +1,4 @@
+What is the difference between a Prop And a State?
+
+The difference between a Prop and a State is, a Prop can not change or rather the information rendered by a prop does not change, props are read only components where it stores value and attributes of a tag. It is immutable so it can not be modified the props inside the component.
+Where a State is an updatable structure that holds information or data that can change depending on what response the user or the system event. It can be accessed or modified inside the component or by the component directly.
